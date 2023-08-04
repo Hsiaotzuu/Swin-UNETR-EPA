@@ -1,5 +1,10 @@
 # Swin-UNETR-EPA
 
+# DataSet
+We use two datasets for BTCV challenge and [AMOS challenge](https://amos22.grand-challenge.org/)
+
+
+
 # References
 [1] Y. Tang et al., “Self-supervised pre-training of swin transformers for 3d medical image analysis,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022, pp. 20730–20740.
 
