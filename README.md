@@ -1,8 +1,13 @@
 # Swin-UNETR-EPA
 
+<hr />
 
 # Installation
-
+Dependencies can be installed using:
+```shell
+pip install -r requirements.txt
+```
+<hr />
 
 
 # DataSet
