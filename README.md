@@ -27,6 +27,10 @@ python test.py --data_dir=<data-path> --json_list=<json-path> --infer_overlap=0.
 ```
 <hr />
 
+# Visualization
+By following the commands for evaluating model in the above, ```test.py``` saves the segmentation outputs in the original spacing in a folder based on the name of the ```outputs```
+
+
 # References
 [1] Y. Tang et al., “Self-supervised pre-training of swin transformers for 3d medical image analysis,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022, pp. 20730–20740.
 
