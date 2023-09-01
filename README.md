@@ -10,7 +10,7 @@ pip install -r requirements.txt
 <hr />
 
 # DataSet
-We use two datasets for [BTCV challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/89480) and [AMOS challenge](https://amos22.grand-challenge.org/)
+We use two datasets, [BTCV challenge](https://www.synapse.org/#!Synapse:syn3193805/wiki/89480) and [AMOS challenge](https://amos22.grand-challenge.org/).
 <hr />
 
 # Training
