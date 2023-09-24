@@ -32,7 +32,8 @@ By following the commands for evaluating model in the above, ```test.py``` saves
 
 
 # References
-[1] Y. Tang et al., “Self-supervised pre-training of swin transformers for 3d medical image analysis,” in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022, pp. 20730–20740.
+[1] Tang, Y., Yang, D., Li, W., Roth, H.R., Landman, B., Xu, D., Nath, V. and Hatamizadeh, A., 2022. Self-supervised pre-training of swin transformers for 3d medical image analysis. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 20730-20740).
 
-[2]
-A. Hatamizadeh, V. Nath, Y. Tang, D. Yang, H. Roth, and D. Xu, “Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images,” arXiv preprint arXiv:2201.01266, 2022.
+[2] Hatamizadeh, A., Nath, V., Tang, Y., Yang, D., Roth, H. and Xu, D., Swin UNETR: Swin Transformers for Semantic Segmentation of Brain Tumors in MRI Images. arXiv 2022. arXiv preprint arXiv:2201.01266.
+
+[3] Shaker, A., Maaz, M., Rasheed, H., Khan, S., Yang, M.H. and Khan, F.S., 2022. UNETR++: delving into efficient and accurate 3D medical image segmentation. arXiv preprint arXiv:2212.04497.
